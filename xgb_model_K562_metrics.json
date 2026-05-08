@@ -1,0 +1,18 @@
+{
+  "val": {
+    "spearman_r": 0.6303848505651651,
+    "pearson_r": 0.5913852453231812,
+    "rmse": 0.09063556790351868,
+    "inference_ms_per_sample": 0.06394215448944778,
+    "inference_total_s": 0.14527657500002533,
+    "n_samples": 2272
+  },
+  "test": {
+    "spearman_r": 0.5751875345743296,
+    "pearson_r": 0.5552147626876831,
+    "rmse": 0.09414862841367722,
+    "inference_ms_per_sample": 0.022178442999595555,
+    "inference_total_s": 0.051165668000066944,
+    "n_samples": 2307
+  }
+}

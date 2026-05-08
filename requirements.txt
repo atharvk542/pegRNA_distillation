@@ -1,0 +1,8 @@
+numpy>=1.26
+pandas>=2.0
+scikit-learn>=1.4
+scipy>=1.13
+xgboost>=2.1
+torch>=2.3
+transformers>=4.40
+ViennaRNA>=2.6
